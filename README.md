@@ -1,4 +1,4 @@
-# Hate-Crimes-Data-Analysis
+# Data-Analysis on FBI Hate Crimes Dataset
 # About the DataSet: Hate Crimes between 1991 and 2020
 
 Dataset Source: https://s3-us-gov-west-1.amazonaws.com/cg-d4b776d0-d898-4153-90c8-8336f86bdfec/hate_crime.zip
